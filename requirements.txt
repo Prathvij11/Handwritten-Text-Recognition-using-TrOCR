@@ -1,3 +1,7 @@
-streamlit==1.18.0
-transformers==4.34.0
-Pillow==9.3.0
+streamlit==1.41.1
+torchvision==0.20.1
+tornado==6.4.1
+tqdm==4.66.5
+traitlets==5.14.3
+transformers==4.47.1
+pillow==10.4.0
